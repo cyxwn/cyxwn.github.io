@@ -1,3 +1,2 @@
-# [沈凯的博客][1]
-[1]: https://cyxwn.github.io/shenkai
+# [沈凯的博客][1]: https://cyxwn.github.io/shenkai
 
