@@ -25,8 +25,8 @@
         canvasPage3.width= document.body.clientWidth;
         canvasPage3.height= document.documentElement.clientHeight-5;
         var ctx = canvasPage3.getContext("2d");
-        var zhongX = 800;
-        var zhongY = 385;
+        var zhongX = canvasPage3.width/2;
+        var zhongY = canvasPage3.height/2;
         function randomNum(x, y) {
             return Math.floor(Math.random() * (y - x + 1) + x);
         }
